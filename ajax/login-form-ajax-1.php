@@ -101,7 +101,7 @@ margin: 0 auto;}
 
   <br>
   <div class="col-sm-12 col-md-12 col-lg-12">
-    <input type="submit" name="check" class="btn btn-primary" />
+    <input type="submit" name="check" class="btn btn-primary" value="LogIn" />
   </div>
 
 <br>
