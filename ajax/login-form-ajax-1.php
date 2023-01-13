@@ -22,7 +22,7 @@
 .myform1 div {text-align: center;
 margin: 0 auto;}
 
-.login-form {   width: 80%;
+.login-form {   width: 100%;
                 max-height: 300px;
                 margin: 0 auto;
                 text-align: center; background-color: lightgrey;
